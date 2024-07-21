@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\bin\Debug\dnmKütüp1.exe.config
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\bin\Debug\dnmKütüp1.exe
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\bin\Debug\dnmKütüp1.pdb
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\obj\Debug\dnmKütüp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\obj\Debug\dnmKütüp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\obj\Debug\dnmKütüp1.exe
+C:\Users\HP\Desktop\BAHRİYE HOCA C#\C# Ders Düzenli\dnmKütüp1\dnmKütüp1\obj\Debug\dnmKütüp1.pdb
